@@ -4,4 +4,4 @@ Nous avons réussi à effecter le signal carré.
 Nous avons également fait calcul carré.
 Les deux fonctionnent.
 
-A la séance du 27/03/20 nous avons commencé l'activité 2.2 qui s'agit de mettre en place la DFT, nous ne l'avons pas encore verifié.
+A la séance du 03/04/20 nous avons verifié et finie la DFT de l'activité 2.2.
