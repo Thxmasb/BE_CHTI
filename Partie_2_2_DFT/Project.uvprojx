@@ -402,16 +402,16 @@
               <FileType>2</FileType>
               <FilePath>.\Src\CalculDFT.s</FilePath>
             </File>
-            <File>
-              <FileName>TabSig.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\TabSig.s</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
           <GroupName>Syst</GroupName>
           <Files>
+            <File>
+              <FileName>TabSig.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\TabSig.s</FilePath>
+            </File>
             <File>
               <FileName>TabSonCos.s</FileName>
               <FileType>2</FileType>

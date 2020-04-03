@@ -6,7 +6,7 @@ extern short TabSig[];
 extern int CalculCarre(int i);
 extern int CalculDFT(short *,int );
 
-///int tab[64];
+int tab[64];
 
 int main(void)
 {	
@@ -15,7 +15,9 @@ int main(void)
 		//tab[i]=CalculCarre(i);
 		
 	//}
-	CalculDFT(TabSig,1);
+	for(int i=0;i<64;i++){
+		tab[i]=CalculDFT(TabSig,i);
+	}
 	
 	
 	int Periode_en_Tck=720000;
